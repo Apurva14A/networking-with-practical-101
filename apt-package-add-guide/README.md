@@ -35,7 +35,7 @@ is often used during the setup of a Debian or Ubuntu-based system to ensure the 
 
 #### Why This Combination?
 
-    When setting up external repositories or custom software, you often need:
+When setting up external repositories or custom software, you often need:
 
 * Secure package fetching (enabled by curl and ca-certificates).
 
