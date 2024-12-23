@@ -1,0 +1,6 @@
+# Protocols of IP
+
+### ICMP
+
+- It does not use ports.
+- PING and Traceroute use this protocol.
